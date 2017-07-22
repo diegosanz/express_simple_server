@@ -12,11 +12,7 @@ Clone this repository:
 git clone https://github.com/diegosanz/express_simple_server 
 ```
 
-<<<<<<< HEAD
 ⁠⁠⁠Alternatively you can download and extract [this zip](https://github.com/diegosanz/express_simple_server/archive/master.zip) directly.
-=======
-Alternately you can download and extract [this zip](https://github.com/diegosanz/express_simple_server/archive/master.zip) directly.
->>>>>>> cb4962724ac818c29213074a5f8a0691854b645d
 
 Start the server (you will need [node.js](https://nodejs.org) installed on your computer):
 
