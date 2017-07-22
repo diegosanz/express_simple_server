@@ -2,7 +2,7 @@ var express    = require('express');
 var serveIndex = require('serve-index');
 
 var app = express();
-var port = '80';
+var port = '3000';
 
 app.use('/', serveIndex('public', {'icons': true}));
 app.use(express.static(__dirname + '/public'));
