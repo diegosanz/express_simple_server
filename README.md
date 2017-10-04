@@ -14,6 +14,14 @@ git clone https://github.com/diegosanz/express_simple_server
 
 ⁠⁠⁠Alternatively you can download and extract [this zip](https://github.com/diegosanz/express_simple_server/archive/master.zip) directly.
 
+Download the dependencies:
+
+``` bash
+cd express_simple_server
+
+npm install
+```
+
 Start the server (you will need [node.js](https://nodejs.org) installed on your computer):
 
 ``` bash
